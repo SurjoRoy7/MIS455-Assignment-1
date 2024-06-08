@@ -1,0 +1,27 @@
+.services img {
+    /* box-sizing: border-box; */
+    /* padding: 16px; */
+    display: grid;
+    grid-template-columns: 1fr;
+    /* grid-auto-rows: 300px ; */
+    /* gap: 16px; */
+    margin-top: 10px;
+    float: left;
+    margin-left: 50px;
+    width: 50%;
+    height: 100%;
+}
+
+h1 {
+    color: black;
+    margin-top: 5%;
+    padding: 20px;
+    
+}
+
+.text-container {
+    margin-right: 100px;
+    padding: 100px;
+    font-size: large;
+    
+  }
